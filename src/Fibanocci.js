@@ -12,3 +12,4 @@ console.log(fibanacci(6));
 console.log(fibanacci(9));
 
 // Time Complexity -> Big O -> O(n)
+// node src/Fibanocci.js
